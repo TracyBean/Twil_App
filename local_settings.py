@@ -11,7 +11,7 @@ Twil_App = "AP7372909d77981da2347788c983ad57c0"
 Twil_SPAM_ID = "+1 508-401-7549"
 
 
- Begin Heroku configuration - configured through environment variables.
+ #Begin Heroku configuration - configured through environment variables.
 import os
 ACCOUNT_SID = os.environ['ACCOUNT_SID']
 AUTH_TOKEN = os.environ['AUTH_TOKEN']
