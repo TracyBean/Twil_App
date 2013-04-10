@@ -15,5 +15,5 @@ Twil_SPAM_ID = "+1 508-401-7549"
 import os
 ACCOUNT_SID = os.environ['ACCOUNT_SID']
 AUTH_TOKEN = os.environ['AUTH_TOKEN']
-Twil_APP_SID = os.environ['BSSSPAM_APP_SID']
-Twil_SPAM_ID = os.environ['BSS_SPAM_ID']
+Twil_APP_SID = os.environ['Twil_APP_SID']
+Twil_SPAM_ID = os.environ['Twil_SPAM_ID']
