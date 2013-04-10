@@ -9,7 +9,8 @@ import os
 from random import choice
 from local_settings import *
 
-# Twil_APP_SID
+
+# SONYA_APP_SID
 # Twil_SPAM_ID
 
 # Declare and configure application
